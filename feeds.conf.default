@@ -8,3 +8,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 
 src-git openappfilter https://github.com/destan19/OpenAppFilter
+src-git luci-app-oaf https://github.com/destan19/OpenAppFilter/luci-app-oaf
+src-git oaf https://github.com/destan19/OpenAppFilter/oaf
+src-git open-app-filter https://github.com/destan19/OpenAppFilter/open-app-filter
